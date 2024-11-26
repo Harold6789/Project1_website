@@ -1,0 +1,103 @@
+body{
+    background-color: #F5F5F5;
+}
+.buttonClass{
+    background-color: #77A2FF;
+    float: left;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    width: 18%; /* Five links of equal widths */
+    text-align: center;
+    position: relative; 
+    bottom: 61px;
+    left: 16px;
+}
+
+.buttonClass:hover{
+    background-color: #D9D9D9;
+}
+.Homepagetxt{
+    text-align: center;
+    margin: 10px;
+    padding: 35px;
+    font-size: larger;
+}
+
+.header{
+    padding: 30px;
+    text-align: center;
+    border:2px solid #000;
+    font-size: x-large;
+}
+
+.left-welcome-message{
+    font-size: 40px;
+    margin: 150px;
+    position: relative;
+    bottom: 150px
+}
+
+.middle-welcome-message{
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 520px;
+}
+
+.right-welcome-message{
+    font-size: 40px;
+    text-align: right;
+    position: relative;
+    bottom: 755px;
+    right: 130px;
+}
+
+.sign-up-button{
+    position: relative;
+    bottom: 735px;
+    left: 270px;
+    background-color: #77A2FF;
+    border: none;
+    color: white;
+    padding: 10px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.log-in-button{
+    position: relative;
+    bottom: 735px;
+    left: 1260px;
+    background-color: #77A2FF;
+    border: none;
+    color: white;
+    padding: 10px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.posts-button{
+    position: relative;
+    bottom: 735px;
+    left: 425px;
+    background-color: #77A2FF;
+    border: none;
+    color: white;
+    padding: 10px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: #F5F5F5;
+}
+.buttonClass{
+    background-color: #77A2FF;
+    float: left;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    width: 18%; /* Five links of equal widths */
+    text-align: center;
+    position: relative;
+    bottom: 61px;
+    left: 16px;
+}
+
+.buttonClass:hover{
+    background-color: #D9D9D9;
+}
+.Homepagetxt{
+    text-align: center;
+    margin: 10px;
+    padding: 35px;
+    font-size: larger;
+}
+.header{
+    padding: 30px;
+    text-align: center;
+    border:2px solid #000;
+    font-size: x-large;
+}
+
+.left-welcome-message{
+    font-size: 40px;
+    margin: 150px;
+    position: relative;
+    bottom: 80px
+}
+
+.middle-welcome-message{
+    font-size: 40px;
+    
+}
